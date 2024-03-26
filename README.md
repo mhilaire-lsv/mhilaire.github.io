@@ -1,20 +1,3 @@
-<html>
-
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Mathieu Hilaire</title>
-    <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
-    <link href='https://fonts.googleapis.com/css?family=Quicksand:700' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-    <div id="wrapper">
-        <div id="header-wrapper">
-            <div id="header">
-                        <div id="logo">
-                    <h1>MATHIEU HILAIRE</h1> </div>
-            </div>
-        </div>
 
         <div id="page">
             <div id="content">
@@ -23,7 +6,7 @@
                 <div class="post">
                     <h2 class="title">Research</h2>
                     <div class="entry">
-                        <p>I am a postdoc at <a href="https://liris.cnrs.fr/">LIRIS </a>, in the research group <a href="https://liris.cnrs.fr/equipe/goal">GOAL</a>. I am currently working on parametric complexity in positional games as part of the ANR <a href="https://projet.liris.cnrs.fr/p-gase/index.html"/>P-GASE</a>.
+                        <p>I am a postdoc at <a href="https://liris.cnrs.fr/" >LIRIS</a>, in the research group <a href="https://liris.cnrs.fr/equipe/goal">GOAL</a>. I am currently working on parametric complexity in positional games as part of the ANR <a href="https://projet.liris.cnrs.fr/p-gase/index.html"/>P-GASE</a>.
                         </p>
                         <p> From September 2018 to December 2022, I was a PHD Student at <a href="https://ens-paris-saclay.fr/">ENS Paris-Saclay</a>, in the <a href="https://lmf.cnrs.fr/">Laboratoire M&eacute;thodes Formelles (LMF)</a> (previously <a href="http://www.lsv.fr/"/>LSV</a>), as a member of the team Verification and Synthesis of Complex Systems (VASCO). I worked on reachability in Parametric Timed Automata under the supervision of <a href="https://www.uni-kassel.de/eecs/en/tiks/team/detailansicht?tx_ukpersons_personfunctiondetail%5BpersonFunction%5D=118&cHash=c59531be23b79bac603f6f96eda29c74">Stefan G&ouml;ller</a> and <a href="https://www.benedikt-bollig.org/">Benedikt Bollig</a>.
                         </p>
@@ -66,6 +49,7 @@
                         </p>
 
                         <p>I taught the following courses in the Computer Science and Interactions Department of ENS Paris-Saclay.</p>
+                        <p>
                         <ul>
                             <li> 2020-2021:
                               <ul>
@@ -105,8 +89,6 @@
                 </div>
             </div>
         </div>
-    </div>
-</body>
+	</div>
 
-</html>
 
