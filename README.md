@@ -1,4 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-US">
 
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Mathieu Hilaire</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+</head>
+    <div id="wrapper">
+        <div id="header-wrapper">
+            <div id="header">
+                        <div id="logo">
+                    <h1>MATHIEU HILAIRE</h1> </div>
+            </div>
+        </div> 
         <div id="page">
             <div id="content">
                 <div class="post" style="float:right; padding-left:1em; padding-bottom:1em" align="right">
