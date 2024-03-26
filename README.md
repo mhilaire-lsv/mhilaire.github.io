@@ -21,6 +21,10 @@
 			</li>
 
                         <li>
+   <b>[FH24]</b>  Finkel, Alain, and Mathieu Hilaire. <em>"Resilience and Home-Space for WSTS"</em>. International Conference on Verification, Model Checking, and Abstract Interpretation.
+			</li>
+
+                        <li>
     <b>[GH23]</b>  S. G&ouml;ller and M. Hilaire.  <em> "Reachability in two-parametric timed automata with one parameter is EXPSPACE-complete."</em> {Theory of Computing Systems} (TOCS'23):1-86
 			</li>
 
