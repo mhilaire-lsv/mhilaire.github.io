@@ -28,7 +28,7 @@
                         <p>From September 2018 to December 2022, I was a PHD Student at <a href="https://ens-paris-saclay.fr/">ENS Paris-Saclay</a>, in the <a href="https://lmf.cnrs.fr/">Laboratoire M&eacute;thodes Formelles (LMF)</a> (previously <a href="http://www.lsv.fr/">LSV</a>), as a member of the team Verification and Synthesis of Complex Systems (VASCO). I worked on reachability in Parametric Timed Automata under the supervision of <a href="https://www.uni-kassel.de/eecs/en/tiks/team/detailansicht?tx_ukpersons_personfunctiondetail%5BpersonFunction%5D=118&cHash=c59531be23b79bac603f6f96eda29c74">Stefan G&ouml;ller</a> and <a href="https://www.benedikt-bollig.org/">Benedikt Bollig</a>.
                         </p>
                         <p>
-                        See my <a href="download/cv_fr.pdf">CV</a> and my <a href="https://theses.hal.science/tel-03964912v1/file/101620_HILAIRE_2022_archivage.pdf">PHD thesis</a>.
+                        See my <a href="https://theses.hal.science/tel-03964912v1/file/101620_HILAIRE_2022_archivage.pdf">PHD thesis</a>.
                         </p>
                         <h4>Publications</h4>
 			<p>
@@ -65,7 +65,7 @@
                            </ul>
                         </p>
 
-                        <p>I taught the following courses in the Computer Science and Interactions Department of ENS Paris-Saclay.</p>
+                        <p>I taught the following courses in the Computer Science and Interactions Department of ENS Paris-Saclay. See the course materials at my <a href="http://www.lsv.fr/~hilaire/">previous webpage</a>.</p>
                         <ul>
                             <li> 2020-2021:
                               <ul>
@@ -90,7 +90,7 @@
                             </li>
                         </ul>                                  
                     </div>
-
+		
                     <h2 class="title">Contact</h2>
                     <div class="entry">
                         <ul>
